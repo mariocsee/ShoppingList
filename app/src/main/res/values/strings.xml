@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="et_price_hint">Price</string>
+    <string name="et_description_hint">Description</string>
+    <string name="et_item_hint">Item</string>
+    <string name="cb_purchased_text">Purchased</string>
+    <string name="btn_edit_text">Edit</string>
+    <string name="btn_delete_text">Delete</string>
+    <string name="tv_price_text">Price</string>
+    <string name="tv_item_text">Item</string>
+    <string name="item_add">Add</string>
+    <string name="item_clear_list">Clear List</string>
+</resources>
