@@ -1,4 +1,4 @@
-# Minesweeper
+# ShoppingList
 This is a ShoppingList Android application developed on Android Studio for the Mobile Software Development class in AIT Budapest Fall 2016.
 
 Features: 
